@@ -59,12 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://ryanmontgomery.me"><img src="https://avatars.githubusercontent.com/u/44453666?v=4?s=100" width="100px;" alt="Ryan Montgomery"/><br /><sub><b>Ryan Montgomery</b></sub></a><br /><a href="https://github.com/0dayCTF/reverse-shell-generator/pulls?q=is%3Apr+reviewed-by%3A0dayCTF" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://briskets.io"><img src="https://avatars.githubusercontent.com/u/58673953?v=4?s=100" width="100px;" alt="Chris Wild"/><br /><sub><b>Chris Wild</b></sub></a><br /><a href="#projectManagement-briskets" title="Project Management">📆</a> <a href="#tool-briskets" title="Tools">🔧</a> <a href="#infra-briskets" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#design-briskets" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://papadope.net/"><img src="https://avatars.githubusercontent.com/u/28659477?v=4?s=100" width="100px;" alt="Chris Papadopoulos"/><br /><sub><b>Chris Papadopoulos</b></sub></a><br /><a href="#design-Papadope" title="Design">🎨</a></td>
-      
-
             <td align="center" valign="top" width="14.28%"><a href="https://papadope.net/"><img src="https://github.com/RootKRD/rsg.github.io/assets/109300095/5bd4e3b3-1144-4f08-926c-80d8167bb182" width="100px;" alt="Chris Papadopoulos"/><br /><sub><b>Chris Papadopoulos</b></sub></a><br /><a href="#design-Papadope" title="Design">🎨</a></td>
-      
-      
-      
       <td align="center" valign="top" width="14.28%"><a href="https://www.alanfoster.me/"><img src="https://avatars.githubusercontent.com/u/1271782?v=4?s=100" width="100px;" alt="Alan Foster"/><br /><sub><b>Alan Foster</b></sub></a><br /><a href="#infra-AlanFoster" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://muir.land"><img src="https://avatars.githubusercontent.com/u/58998623?v=4?s=100" width="100px;" alt="AG"/><br /><sub><b>AG</b></sub></a><br /><a href="#maintenance-MuirlandOracle" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/0x03f3"><img src="https://avatars.githubusercontent.com/u/24409121?v=4?s=100" width="100px;" alt="Joseph Rose"/><br /><sub><b>Joseph Rose</b></sub></a><br /><a href="#ideas-0x03f3" title="Ideas, Planning, & Feedback">🤔</a></td>
