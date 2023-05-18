@@ -17,7 +17,8 @@ https://rootkrd.github.io/rsg.github.io/
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/70012972/169376352-e6d6b90e-2e2e-46b0-b6f9-0e3f13713e39.png)
+![Screenshot](https://github.com/RootKRD/rsg.github.io/assets/109300095/d2a0f342-207a-4b78-a3e5-0eaec61c0a7a)
+
 
 
 ## Contributors ✨
