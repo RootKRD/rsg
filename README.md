@@ -1,7 +1,7 @@
 # Reverse-Shell Generator
 
 ### Hosted Instance
-https://rootkrd.github.io/rsg.github.io/
+https://rootkrd.github.io/rsg
 
 ### Features
 
